@@ -4,16 +4,19 @@
 
 ## Results:
 ### How is the district summary affected?
+#### Average math and reading scores haven't really changed. Passing math, reading and overall passinig % have dropped a bit. 
 #### Before:
 ![District Summary Before](/Resources/DistrictSummary_Before.PNG)
 #### After:
 ![District Summary After](/Resources/DistrictSummary_After.PNG)
 ### How is the school summary affected?
+#### Looking at Thomas High School we see overall passing rates as well as math and reading passing rates drop slightly.
 #### Before:
 ![School Summary Before](/Resources/SchoolSummary_Before.PNG)
 #### After:
 ![School Summary After](/Resources/SchoolSummary_After.PNG)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+#### We see that droppoing Thomas High School 9th grade did not really change the schools overall ranking as it is still ranked within the first top 5 schools.
 #### Before:
 ![Top 5 Before](/Resources/Top5_Before.PNG)
 #### After:
