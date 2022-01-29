@@ -4,18 +4,23 @@
 
 ## Results:
 ### How is the district summary affected?
+#### Before:
 ![District Summary Before](/Resources/DistrictSummary_Before.PNG)
+#### After:
 ![District Summary After](/Resources/DistrictSummary_After.PNG)
 ### How is the school summary affected?
+#### Before:
 ![School Summary Before](/Resources/SchoolSummary_Before.PNG)
+#### After:
 ![School Summary After](/Resources/SchoolSummary_After.PNG)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+#### Before:
 ![Top 5 Before](/Resources/Top5_Before.PNG)
+#### After:
 ![Top 5 After](/Resources/Top5_After.PNG)
 ### Math scores by grade before:
 ![Math by Grade Before](/Resources/MathByGrade_Before.PNG)
 ### Math scores by grade after:
-
 ![Math by Grade After](/Resources/MathByGrade_After.PNG)
 ### Reading scores by grade before:
 ![Reading by Grade Before](/Resources/ReadingByGrade_Before.PNG)
@@ -24,7 +29,6 @@
 ### Scores by school spending before:
 ![Spending Before](/Resources/BySpending_Before.PNG)
 ### Scores by school spending after:
-
 ![Spending Before](/Resources/BySpending_After.PNG)
 ### Scores by school size before:
 ![Size Before](/Resources/BySize_Before.PNG)
