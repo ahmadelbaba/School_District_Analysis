@@ -24,21 +24,33 @@
 ### Math scores by grade before:
 ![Math by Grade Before](/Resources/MathByGrade_Before.PNG)
 ### Math scores by grade after:
+#### Only THS 9th grade math scores were impacted. No other changes
 ![Math by Grade After](/Resources/MathByGrade_After.PNG)
 ### Reading scores by grade before:
 ![Reading by Grade Before](/Resources/ReadingByGrade_Before.PNG)
 ### Reading scores by grade after:
+#### Only THS 9th grade reading scores were impacted. No other changes
 ![Reading by Grade After](/Resources/ReadingByGrade_After.PNG)
 ### Scores by school spending before:
 ![Spending Before](/Resources/BySpending_Before.PNG)
 ### Scores by school spending after:
+#### The change had no impact on school scores by spending.
 ![Spending Before](/Resources/BySpending_After.PNG)
 ### Scores by school size before:
 ![Size Before](/Resources/BySize_Before.PNG)
 ### Scores by school size after:
+#### The change had no impact on school scores by size.
 ![Size_After](/Resources/BySize_After.PNG)
 ### Scores by school type before:
 ![Type Before](/Resources/ByType_Before.PNG)
 ### Scores by school type after:
+#### The change had no impact on school scores by type.
 ![Type After](/Resources/ByType_After.PNG)
+
+## Summary:
+#### In summary removing THS 9th grade had the following impact:
+- Average math and reading scores across all schools barely changed
+- Passing rates for math, reading and overall across all schools slightly dropped
+- THS own average math and reading scores dropped, so did their overall passing rates
+- THS' ranking has not been impacted
 
